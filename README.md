@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Frank Udeorah</h2>
+  <h2>Udeorah Frank</h2>
   <h4>The Artisan</h4>
 </div>
 <!--
