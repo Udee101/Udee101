@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div align="center">
+  <h2>Frank Udeorah</h2>
+  <h4>The Artisan</h4>
+</div>
 <!--
 **Udee101/Udee101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
