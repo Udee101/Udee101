@@ -18,7 +18,7 @@
 <p align="left">📚 I'm currently learning: Laravel<br>
 🎯 Goal: To be the best in my craft
 </p>
-<p align="left"> 📫 You can contact me vial email: <a href="mailto:franklynudeorah@gmail.com">franklynudeorah@gmail.com</a>
+<p align="left"> 📫 You can contact me via email: <a href="mailto:franklynudeorah@gmail.com">franklynudeorah@gmail.com</a>
 </p>
 
 <br>
