@@ -2,7 +2,7 @@
 <h3 align="center">The Software Artisan</h3>
 
 
-<p align="center">I'm a Software Developer, frontend focused. I enjoy building pixel perfect user interfaces for web applications.</p>
+<p align="center">I'm a Software Developer, frontend focused. I am a hands-on learner, so I prefer learning new technologies through development. In my free time, I explores new technologies and reads technology blogs. Overall, I enjoy building pixel perfect user interfaces for web applications.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/frank-udeorah-3ba766222/" target="_blank">
@@ -37,8 +37,11 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=udee101" height="150" alt="stats graph"  />
+<div align="left">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=udee101" height="150" alt="languages graph"  />
+
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Udee101)](https://git.io/streak-stats)
 
