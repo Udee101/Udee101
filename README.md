@@ -2,7 +2,7 @@
 <h3 align="center">The Software Artisan</h3>
 
 
-<p align="center">I'm a Software Developer, frontend focused. I am a hands-on learner, so I prefer learning new technologies through development. In my free time, I explores new technologies and read technology blogs. Overall, I enjoy building pixel perfect user interfaces for web applications.</p>
+<p align="center">I'm a Frontend focused Software Developer. I am a hands-on learner, so I prefer learning new technologies through development. In my free time, I explores new technologies and read technology blogs. Overall, I enjoy building pixel perfect user interfaces for web applications.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/frank-udeorah-3ba766222/" target="_blank">
