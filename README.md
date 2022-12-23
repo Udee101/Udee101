@@ -35,5 +35,3 @@
 
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Udee101)](https://git.io/streak-stats)
-
