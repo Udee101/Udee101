@@ -3,7 +3,7 @@
 I'm Frank Udeorah, a Software Developer. 
 ###
 
-I'm a hands-on learner, so I prefer learning new technologies through development. In my free time, I explores new technologies and read technology blogs.
+I'm a hands-on learner, so I prefer learning new technologies through development. In my free time, I explore new technologies and read tech blogs.
 
 ###
 
