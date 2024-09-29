@@ -19,7 +19,6 @@ I'm a hands-on learner, so I prefer learning new technologies through developmen
 ###
 
 <p align="left">📚 I'm currently learning: Backend Development<br>
-🎯 Goal: To be the best in my craft
 </p>
 <p align="left"> 📫 You can contact me via email: <a href="mailto:franklynudeorah@gmail.com">franklynudeorah@gmail.com</a>
 </p>
@@ -28,7 +27,7 @@ I'm a hands-on learner, so I prefer learning new technologies through developmen
 
 <h2 align="left">Technologies I use</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,tailwind,expressjs,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vuejs,react,python,tailwind,expressjs,laravel,mysql)](https://skillicons.dev)
 
 ###
 
