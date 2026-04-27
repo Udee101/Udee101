@@ -1,6 +1,6 @@
 #### Hi there! 
 
-I'm Frank Udeorah, a Software Developer. 
+I'm Frank Lotachukwu, a Software Developer. 
 ###
 
 I'm a hands-on learner, so I prefer learning new technologies through development. In my free time, I explore new technologies and read tech blogs.
